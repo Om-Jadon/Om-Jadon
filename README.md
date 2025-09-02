@@ -13,22 +13,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Jadon&layout=compact">
 
 ## Programming Languages
-<img src='images/c-original.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/cpp.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/python2.png' height='30' style="margin-right:10px;"/>  
-<img src='images/html.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/css.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/js.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/sql.svg' width='30' style="margin-right:10px;"/>
+<img src='images/c-original.svg' width='30' style="margin-right:10px;"/> <img src='images/cpp.svg' width='30' style="margin-right:10px;"/> <img src='images/python2.png' height='30' style="margin-right:10px;"/> <img src='images/html.svg' width='30' style="margin-right:10px;"/> <img src='images/css.svg' width='30' style="margin-right:10px;"/> <img src='images/js.svg' width='30' style="margin-right:10px;"/> <img src='images/sql.svg' width='30' style="margin-right:10px;"/>
  
  ## Technologies I Use
-<img src='images/vscode.svg' width='33' style="margin-right:10px;"/> 
-<img src='images/react.svg' width='33' style="margin-right:10px;"/> 
-<img src='images/nextjs.svg' height='33' style="margin-right:12px;"/> 
-<img src='images/flask.png' width='30' style="margin-right:12px;"/> 
-<img src='images/git.svg' width='30' style="margin-right:10px;"/> 
-<img src='images/nodejs.svg' width='33' style="margin-right:8px;"/> 
-<img src='images/linux.svg' height='40' style="margin-right:10px;"/>
+<img src='images/vscode.svg' width='33' style="margin-right:10px;"/> <img src='images/react.svg' width='33' style="margin-right:10px;"/> <img src='images/nextjs.svg' height='33' style="margin-right:12px;"/> <img src='images/flask.png' width='30' style="margin-right:12px;"/> <img src='images/git.svg' width='30' style="margin-right:10px;"/> <img src='images/nodejs.svg' width='33' style="margin-right:8px;"/> <img src='images/linux.svg' height='40' style="margin-right:10px;"/>
  
  ## Who am I?
  ```cpp
