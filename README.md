@@ -45,6 +45,3 @@
 ## Current Works
 * I'm currently learning new technologies and working on polishing my skills in **Competitive Programming**.
 * Breaking into **Machine Learning** and exploring various ML domains.
-
-## Other Stuff
-* :octocat: [My Resume](https://drive.google.com/file/d/1GtwZUt3EVckUbCNXRay69Vlfgxswh7eG/view?usp=drive_link)
